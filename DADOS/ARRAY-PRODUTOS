@@ -1,0 +1,149 @@
+<?php
+
+$cupcakes = [
+    '1' => [
+        'id' => 1,
+        'imgPath' => 'https://images.unsplash.com/photo-1603532648955-039310d9ed75?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN1cGNha2VzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Cupcake 1',
+        'descricao' => 'Cupcake Ferrero',
+        'preco' => '10.50',
+    ],
+
+    '2'=>[
+        'id' => 2,
+        'imgPath' => 'https://images.unsplash.com/photo-1615832494873-b0c52d519696?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGN1cGNha2VzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Cupcake 2',
+        'descricao' => 'Cupcake Amora ',
+        'preco' => '11.50',    
+    ],
+    '3' =>[
+        'id' => 3,
+            'imgPath' => 'https://images.unsplash.com/photo-1623246123320-0d6636755796?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGN1cGNha2VzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+            'nome' => 'Cupcake 3',
+            'descricao' => 'Cupcake Mel',
+            'preco' => '12.50',
+    ],
+    '4' =>[
+        'id' => 4,
+        'imgPath' => 'https://images.unsplash.com/photo-1555526148-0fa555bb2e78?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y3VwY2FrZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Cupcake 4',
+        'descricao' => 'Cupcake Unicornio - Feito com delicioso chocolate',
+        'preco' => '14.50',   
+    ],
+    '5' =>[
+        'id' => 5,
+        'imgPath' => 'https://images.unsplash.com/photo-1563778084459-859099e48677?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGN1cGNha2VzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Cupcake 5',
+        'descricao' => 'Cupcake de morango e chocolate branco',
+        'preco' => '15.50',   
+    ],
+    '6' =>[
+        'id' => 6,
+        'imgPath' => 'https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGN1cGNha2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Cupcake 6',
+        'descricao' => 'Cupcake de frutas',
+        'preco' => '10.20',   
+    ],
+    '7' =>[
+        'id' => 7,
+        'imgPath' => 'https://images.unsplash.com/photo-1612203985729-70726954388c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGN1cGNha2VzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Cupcake - Oreo',
+        'descricao' => 'Cupcake com recheio de biscoito Oreo',
+        'preco' => '7.50',   
+    ],
+];
+
+$bolos = [
+    '1' => [
+        'id' => 1,
+        'imgPath' => 'https://images.unsplash.com/photo-1602630209855-dceac223adfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FrZSUyMHNsaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Bolo 1',
+        'descricao' => 'Bolo Red Velvet',
+        'preco' => '11.50',
+    ],
+
+    '2'=>[
+        'id' => 2,
+        'imgPath' => 'https://images.unsplash.com/photo-1536749605762-e7445a2d43ec?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2FrZSUyMHNsaWNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Bolo 2',
+        'descricao' => 'Bolo de Chocolate',
+        'preco' => '8.50',    
+    ],
+    '3' =>[
+        'id' => 3,
+            'imgPath' => 'https://images.unsplash.com/photo-1621303837174-89787a7d4729?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2FrZSUyMHNsaWNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+            'nome' => 'Bolo 3',
+            'descricao' => 'Bolo Unicornio',
+            'preco' => '11.50',
+    ],
+    '4' =>[
+        'id' => 4,
+        'imgPath' => 'https://images.unsplash.com/photo-1505253599537-305b179737ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FrZSUyMHNsaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Bolo 4',
+        'descricao' => 'Bolo de Nozes e Chocolate',
+        'preco' => '15.50',   
+    ],
+    '5' =>[
+        'id' => 5,
+        'imgPath' => 'https://images.unsplash.com/photo-1616203969510-95a5d63329db?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNha2UlMjBzbGljZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Bolo 5',
+        'descricao' => 'Bolo de Laranja e Mel',
+        'preco' => '10.50',   
+    ],
+    '6' =>[
+        'id' => 6,
+        'imgPath' => 'https://images.unsplash.com/photo-1536599524557-5f784dd53282?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNha2UlMjBzbGljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Bolo 6',
+        'descricao' => 'Bolo de coco, com chocolate',
+        'preco' => '14.20',   
+    ],
+];
+
+$geleias = [
+    '1' => [
+        'id' => 1,
+        'imgPath' => 'https://images.unsplash.com/photo-1586727579295-62136fbb6082?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8amFtfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Geleia 1',
+        'descricao' => 'Geleia de Pimenta',
+        'preco' => '7.50',
+    ],
+
+    '2'=>[
+        'id' => 2,
+        'imgPath' => 'https://images.unsplash.com/photo-1589024689337-41f3871a459b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGphbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Geleia 2',
+        'descricao' => 'Geleia de abacaxi',
+        'preco' => '8.50',    
+    ],
+    '3' =>[
+        'id' => 3,
+            'imgPath' => 'https://images.unsplash.com/photo-1576359409444-1699423921dd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGphbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+            'nome' => 'Geleia 3',
+            'descricao' => 'Geleia de rosas',
+            'preco' => '15.50',
+    ],
+    '4' =>[
+        'id' => 4,
+        'imgPath' => 'https://images.unsplash.com/photo-1471943311424-646960669fbc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGphbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Geleia 4',
+        'descricao' => 'Geleia de Tangerina e Mel',
+        'preco' => '13.50',   
+    ],
+    '5' =>[
+        'id' => 5,
+        'imgPath' => 'https://images.unsplash.com/photo-1610135373101-89aeeab8fa50?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGphbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Geleia 5',
+        'descricao' => 'Geleia de Maracujá Doce',
+        'preco' => '14.50',   
+    ],
+    '6' =>[
+        'id' => 6 ,
+        'imgPath' => 'https://images.unsplash.com/photo-1511870535127-cfd904aab3a8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGphbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'nome' => 'Geleia 6',
+        'descricao' => 'Geleia de Blubery e Limão',
+        'preco' => '20.10',   
+    ],
+];
+
+
+?>
