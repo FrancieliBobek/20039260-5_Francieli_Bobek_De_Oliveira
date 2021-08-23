@@ -54,7 +54,7 @@ Tabela de conteúdos
   
 ### Produto Especifico Exemplo:
 
-<img alt="Produto-Especifico" title="#CupCake" src="https://images.unsplash.com/photo-1612203985729-70726954388c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGN1cGNha2VzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />  
+<img alt="Produto-Especifico" title="#CupCake" src="https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/IMAGES/Produto%20especifico.JPG />  
 
 ### Footer
 <img alt="Footer" title="#footer" src="https://i.imgur.com/LuCUB6f.png?1" />  
