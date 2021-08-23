@@ -62,7 +62,7 @@ Tabela de conteúdos
 
 ### Localização
 
-<img alt=Localização" title="#Localização" src="https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/IMAGES/Contato.JPG /> 
+<img alt=Localização" title="#Localização" src="https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/IMAGES/Localiza%C3%A7%C3%A3o.JPG/> 
                                          
 ## Como Usar
 
