@@ -52,10 +52,9 @@ Tabela de conteúdos
 
 <img alt="Produtos" title="#Produtos" src="https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/IMAGES/Produtos.JPG" />  
   
-### Produto Especifico Exemplo:
+### Produtos Especifico
 
-<img alt="Produto-Especifico" title="#Produto Especifíco" src="https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/IMAGES/Produto%20especifico.JPG />  
-
+<img alt="Produtos-Especifico" title="#Produto Especifico" src="https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/IMAGES/Produtos.JPG" />  
 ### Footer
 <img alt="Footer" title="#footer" src="https://i.imgur.com/LuCUB6f.png?1" />  
 
