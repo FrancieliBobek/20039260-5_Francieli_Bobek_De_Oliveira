@@ -47,6 +47,9 @@ Tabela de conteúdos
 <img alt="Section-bolos" title="#Bolos" src="https://images.unsplash.com/photo-1562440499-64c9a111f713?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FrZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
 <img alt="Section-geleias" title="#Geleias" src="https://images.unsplash.com/photo-1610393742736-72b0185368dc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8amFtfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />  
 
+### Quem somos
+
+<img alt="Quem-Somos" title="# Quem Somos" src=""
 
 ### Produtos
 
