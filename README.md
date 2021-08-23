@@ -58,9 +58,12 @@ Tabela de conteúdos
 
 ### Contato
 
-<img alt="Contato" title="#Contato" src="https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/IMAGES/Produto%20especifico.JPG" /> 
+<img alt="Contato" title="#Contato" src="https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/IMAGES/Contato.JPG /> 
 
+### Localização
 
+<img alt=Localização" title="#Localização" src="https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/IMAGES/Contato.JPG /> 
+                                         
 ## Como Usar
 
 ### Pre-Requisitos
