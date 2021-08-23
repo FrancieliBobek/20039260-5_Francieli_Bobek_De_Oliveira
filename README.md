@@ -120,4 +120,4 @@ https://i.pinimg.com/originals/06/1e/af/061eafa96e27e21d4139225b6fe0555f.png
 https://studeo.unicesumar.edu.br/#!/app/studeo/aluno/ambiente/disciplina/2021_EGRAD_SISIN7G-53_EGRAD_SISIN100_012/questionario/178711  
 
 ## Licença
-[MIT](https://github.com/guilhermeSDB/MAPA-Faculdade/blob/master/LICENSE)
+[MIT](https://github.com/FrancieliBobek/20039260-5_Francieli_Bobek_De_Oliveira/blob/main/LICENSE)
