@@ -107,7 +107,7 @@ Para utilizar esse metodo é presciso que o PHP esteja nas variaveis de ambiente
 ## Autor
 
 Todo o projeto: Protótipo, HTML, CSS, JS, PHP e ReadME foi feito e finalizado por mim.  
-Francieli Bobek de Oliveira
+Francieli Bobek de Oliveira R.A 20039260-5
 
 
 ## Referencias:  
